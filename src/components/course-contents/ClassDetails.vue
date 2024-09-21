@@ -25,17 +25,17 @@
       <div class="sub-content">
         <p>Please be aware that grades will be calculated out of 20.0. Below are the respective grade allocations for each section:</p>
         <ul>
-          <li><span class="font-bold">Midterm Exam 1:</span> ??%</li>
-          <li><span class="font-bold">Midterm Exam 2:</span> ??%</li>
-          <li><span class="font-bold">Final Exam:</span>  ??%</li>
-          <li><span class="font-bold">Four Assignments:</span>  ??% each</li>
-          <li><span class="font-bold">Course Project:</span>  ??%</li>
-          <ul>
-            <li>Proposal: ??%</li>
-            <li>Progress Report: ??%</li>
-            <li>Presentation: ??%</li>
-            <li>Final Report: ??%</li>
-          </ul>
+          <li><span class="font-bold">Midterm Exam 1:</span> 10%</li>
+          <li><span class="font-bold">Midterm Exam 2:</span> 10%</li>
+          <li><span class="font-bold">Final Exam:</span>  20%</li>
+          <li><span class="font-bold">Four Assignments:</span>  10% each => 40% total</li>
+          <li><span class="font-bold">Course Project:</span>  20%</li>
+<!--          <ul>-->
+<!--            <li>Proposal: ??%</li>-->
+<!--            <li>Progress Report: ??%</li>-->
+<!--            <li>Presentation: ??%</li>-->
+<!--            <li>Final Report: ??%</li>-->
+<!--          </ul>-->
         </ul>
       </div>
     </div>
@@ -61,7 +61,7 @@
           <li>Four series of homework assignments will be given throughout this course.</li>
           <li>Homework assignments have to be submitted on <a class="any-link" href="https://cw.sharif.edu/" target="_blank">CW</a>.</li>
           <li>Late submissions will be accepted with no penalty up to 3 days for each assignments with a total delay of 10 days for all of them.</li>
-          <li>Any additional delay beyond this will incur a 0.5% deduction in the assignment grade for each hour of lateness.</li>
+          <li>Any additional delay beyond this will not be accepted!</li>
           <li>To ensure fairness and consistency, we do not accept any requests for deadline extensions, as the delay policy is strictly enforced to maintain equal opportunities for all students.</li>
         </ul>
       </div>

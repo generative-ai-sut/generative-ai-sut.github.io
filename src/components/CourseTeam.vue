@@ -23,11 +23,11 @@ const courseAssistants = {
   title: 'Course Assistants',
   people: [
     {firstName: 'Arshak', lastName: 'Rezvani', avatar: 'profile.jpg', personalWebsite: ''},
-    {firstName: 'Illia', lastName: 'Hashemi Rad', avatar: 'profile.jpg', personalWebsite: ''},
-    {firstName: 'Ramtin', lastName: 'Moslemi', avatar: 'profile.jpg', personalWebsite: ''},
+    {firstName: 'Illia', lastName: 'Hashemi Rad', avatar: 'HashemiRad.jpg', personalWebsite: ''},
+    {firstName: 'Ramtin', lastName: 'Moslemi', avatar: 'Moslemi.jpg', personalWebsite: ''},
     {firstName: 'Ali', lastName: 'Nikkhah', avatar: 'profile.jpg', personalWebsite: ''},
-    {firstName: 'Hesam', lastName: 'Hosseini', avatar: 'profile.jpg', personalWebsite: ''},
-    {firstName: 'Homan', lastName: 'Zolfaghari', avatar: 'profile.jpg', personalWebsite: ''},
+    {firstName: 'Hesam', lastName: 'Hosseini', avatar: 'Hosseini.jpg', personalWebsite: ''},
+    {firstName: 'Homan', lastName: 'Zolfaghari', avatar: 'Zolfaghari.jpg', personalWebsite: ''},
   ]
 };
 </script>
